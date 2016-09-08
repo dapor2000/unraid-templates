@@ -15,7 +15,7 @@
   <Registry>https://registry.hub.docker.com/u/dapor/docker-kerio-connect/</Registry>
   <GitHub>https://github.com/dapor2000/unraid-template</GitHub>
   <Repository>dapor/docker-kerio-connect</Repository>
-  <Support>/Support>
+  <Support><dapor@dapor.de></Support>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
   <Networking>
