@@ -4,13 +4,13 @@
   <Beta>False</Beta>
   <Category>Network:Web Network:Email</Category>
   <Name>Kerio Connect</Name>
-  <Project></Project>
+  <Project>Kerio Connect</Project>
   <Changes>
   </Changes>
   <Overview>
     Kerio Connect
   </Overview>
-  <Description>
+  <Description> kerio Connect
   </Description>
   <Registry>https://registry.hub.docker.com/u/dapor/docker-kerio-connect/</Registry>
   <GitHub>https://github.com/dapor2000/unraid-template</GitHub>
@@ -31,6 +31,6 @@
     </Volume>
   </Data>
   <WebUI>https://[IP]:[PORT:4040]/web/index.html</WebUI>
-  <Banner></Banner>
-  <Icon></Icon>
+  <Banner>none</Banner>
+  <Icon>none</Icon>
 </Containers>
