@@ -37,6 +37,6 @@
     </Volume>
   </Data>
   <WebUI>https://[IP]:[PORT:4040]/web/index.html</WebUI>
-  <Banner>none</Banner>
-  <Icon>none</Icon>
+  <Banner></Banner>
+  <Icon></Icon>
 </Containers>
