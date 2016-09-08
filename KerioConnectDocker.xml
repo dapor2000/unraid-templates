@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Date>2016-09-08</Date>
+  <Beta>False</Beta>
+  <Category>Network:Web Network:Email</Category>
+  <Name>Kerio Connect</Name>
+  <Project></Project>
+  <Changes>
+  </Changes>
+  <Overview>
+    Kerio Connect
+  </Overview>
+  <Description>
+  </Description>
+  <Registry>https://registry.hub.docker.com/u/docker-kerio-connect/</Registry>
+  <GitHub>https://github.com/dapor2000/unraid-template</GitHub>
+  <Repository>limetech/plex</Repository>
+  <Support>/Support>
+  <BindTime>true</BindTime>
+  <Privileged>true</Privileged>
+  <Networking>
+    <Mode>host</Mode>
+    <Publish/>
+  </Networking>
+  <Environment/>
+  <Data>
+    <Volume>
+      <HostDir>/mnt/user/appdata/kerio_store</HostDir>
+      <ContainerDir>/kerio_store</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>
+  </Data>
+  <WebUI>https://[IP]:[PORT:4040]/web/index.html</WebUI>
+  <Banner></Banner>
+  <Icon></Icon>
+</Containers>
