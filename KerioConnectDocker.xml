@@ -12,9 +12,9 @@
   </Overview>
   <Description>
   </Description>
-  <Registry>https://registry.hub.docker.com/u/docker-kerio-connect/</Registry>
+  <Registry>https://registry.hub.docker.com/u/dapor/docker-kerio-connect/</Registry>
   <GitHub>https://github.com/dapor2000/unraid-template</GitHub>
-  <Repository>limetech/plex</Repository>
+  <Repository>dapor/docker-kerio-connect</Repository>
   <Support>/Support>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
